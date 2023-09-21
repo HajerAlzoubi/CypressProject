@@ -1,0 +1,6 @@
+1. create variable: const expectedcurrency = "SAR" as example
+2. skip one test: use skip example it.skip.....
+3. to get all HTML page use cy.get('html')
+4. property -> in inpect colored by orange
+5. to use property or attribute use as example cy.get('html').should('have.attr','lang','en')
+6. 
